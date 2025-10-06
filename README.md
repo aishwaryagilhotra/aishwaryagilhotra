@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning AI/ML
 - 📫 How to reach me @aishwaryagilhotra@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I can do management work just fine 
 
 <!---
 aishwaryagilhotra/aishwaryagilhotra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
