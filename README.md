@@ -4,7 +4,7 @@
 - Mail: @aishwaryagilhotra@gmail.com
 - LinkedIn: https://www.linkedin.com/in/aishwarya-gilhotra-ba0957336
 
--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 
 <!---
