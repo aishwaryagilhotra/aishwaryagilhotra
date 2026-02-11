@@ -1,5 +1,6 @@
 - Hi, I’m @aishwaryagilhotra
 - Pronouns: she/her
+- Focused on AI systems, data pipelines, and scalable backend engineering.
 
 <h4> Currently Working On </h4>
 
@@ -19,20 +20,25 @@
 </p>
 <p align="center"><b>AI and ML Libraries</b></p>
 <p align="center">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
 </p>
-<p align="center"><b>Backend</b></p>
+<p align="center"><b>Backend (Java & APIs)</b></p>
 <p align="center">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSP-ED8B00?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-000000?style=flat-square"/>
+</p>
 </p>
 <p align="center"><b>Databases</b></p>
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
 </p>
 <p align="center"><b>Tools</b></p>
