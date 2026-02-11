@@ -1,14 +1,13 @@
 - Hi, I’m @aishwaryagilhotra
 - Pronouns: she/her
 
-## Currently Working On
+<h4> Currently Working On </h4>
 
 - AI/ML systems and LLM-based applications  
 - Data pipelines and backend architecture  
 - Internship projects with real-world datasets  
 
-
-<h2 align="center">Tech Stack</h2>
+<h4>Tech Stack </h4> 
 
 <p align="center"><b>Programming Languages</b></p>
 <p align="center">
