@@ -15,7 +15,7 @@ PostgreSQL • Docker • GitHub Actions
 - Mail: @aishwaryagilhotra@gmail.com
 - LinkedIn: https://www.linkedin.com/in/aishwarya-gilhotra-ba0957336
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aishwaryagilhotra&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aishwaryagilhotra&theme=monokai)
 
 <!---
 aishwaryagilhotra/aishwaryagilhotra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
