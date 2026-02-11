@@ -1,54 +1,54 @@
-<h1 align="center">Aishwarya Gilhotra</h1>
-<p align="center">
-AI/ML & Backend Systems
-</p>
-
----
+- Hi, I’m @aishwaryagilhotra
+- Pronouns: she/her
 
 ## Currently Working On
 
 - AI/ML systems and LLM-based applications  
-- Data pipelines, APIs, and backend architecture  
-- Internship projects using real-world datasets  
+- Data pipelines and backend architecture  
+- Internship projects with real-world datasets  
 
----
 
 ## Tech
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### AI / ML
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-000000?style=flat)
-![LLM (Ollama)](https://img.shields.io/badge/LLM-Ollama-000000?style=flat)
-
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=flat)
-
-### Data
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
-
----
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aishwaryagilhotra&theme=default" width="60%" />
+
+<b>Languages</b><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+
+<br><br>
+
+<b>AI / ML</b><br>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat"/>
+
+<br><br>
+
+<b>Backend & Data</b><br>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-000000?style=flat"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat"/>
+
+<br><br>
+
+<b>Tools</b><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white"/>
+
 </p>
 
----
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aishwaryagilhotra&theme=default" width="40%" />
+</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aishwarya-gilhotra-ba0957336">
