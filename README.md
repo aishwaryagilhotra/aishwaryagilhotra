@@ -1,7 +1,7 @@
 - Hi, I’m @aishwaryagilhotra
 - Pronouns: she/her
 - Focused on AI systems, data pipelines, and scalable backend engineering.
-- Interested in working on Machine Learning Backend Systems
+- Interested in AI in Space and Remote Sensing, Machine Learning/Deep Learning Backend Systems
 
 <h4> Currently Working On </h4>
 
