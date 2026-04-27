@@ -5,9 +5,9 @@
 
 <h4> Currently Working On </h4>
 
-- AI/ML systems and LLM-based applications  
-- Data pipelines and backend architecture  
-- Internship projects with real-world datasets  
+- Remote Sensing - Vegetation Detection in Sentinel-2 with Deep Learning Architectures at NRSC, ISRO
+- AI/ML systems and LLM-based applications in IBM Live Project
+- Data pipelines and backend architecture implementations in various real-world projects
 
 <h4>Tech Stack </h4> 
 
